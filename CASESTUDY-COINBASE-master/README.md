@@ -12,6 +12,8 @@ Table of Contents
 
 [Results](#results)
 
+[Recommendations](#recommendations)
+
 [References](#references)
 
 
@@ -291,7 +293,7 @@ Coinbase is known for being the most popular platform to exchange fiat with cryp
 
 While some companies started to create their own tokens already, in the near future it will become standard for all companies to have their tokens & Coinbase plans to host this tokenized future, hundreds of tokens will be created within years and millions in the future and this is way larger than financial institutions like the New York Stock Exchange which is in  fact one of Coinbase investors.
 
-* ***`WHAT ARE SOME OF TEH CORE METRICS THAT COMPANIES IN THIS DOMAIN USE TO MEASURE SUCCESS? HOW IS COINBASE PERFORMANCE?`***
+* ***`WHAT ARE SOME OF THE CORE METRICS THAT COMPANIES IN THIS DOMAIN USE TO MEASURE SUCCESS? HOW IS COINBASE PERFORMANCE?`***
 
 ![exchange.jpg](exchange.jpg)
 
@@ -349,6 +351,7 @@ Asset prices also vary across multiple exchanges. Crypto assets might trade high
 Price discrepancy can also be a red flag that a given exchange may suffer from low liquidity/volume.
 
 **9. Asset selection**
+
 Top digital assets such as Bitcoin, Ethereum (ETH) and Litecoin (LTC) are widely available on most crypto exchanges. Other smaller cap coins and tokens, however, may not be available on certain exchanges.
 
 
@@ -382,8 +385,8 @@ Most exchanges charge a small fee for each trade. These fees vary based on the p
 Coinbase leverage investors with the major competitive edge among all other trading platforms interms of security and liquidity, adding these essential features gives investors:
 
         1- A comprehensive insight to determine their position in market 
-        2- The ability to predict the next tend
-        3- Full control over the digital especially to stop trailing loss
+        2- The ability to understand current trend & to predict the next one.
+        3- Full control over their digital currencies.
 
 * ***`WHAT TECHNOLOGIES WOULD THIS ADDITIONAL FEATURE SERVICE UTILIZE?`***
 
@@ -400,8 +403,7 @@ Coinbase leverage investors with the major competitive edge among all other trad
 
 * ***`WHY ARE THESE TECHNOLOGIES APPROPRIATE FOR YOUR SOLUTION?`***
 
-Beacsue when complex data vizulation is added to to the flow of raw data, it will be much easier for users to make confident decisions.
-it's a very useful tool for data cleaning, exploring data structure, detecting outliners, identifying trends & clusters, spotting patterns, & presenting results.
+Beacsue when complex data vizulation is added to to the flow of raw data, it will be much easier for users to make confident decisions. It is a very useful tool for data cleaning, exploring data structure, detecting outliners, identifying trends & clusters, spotting patterns, & presenting results.
 
 
 -----------------------------------------------------------------
