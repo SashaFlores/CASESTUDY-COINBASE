@@ -36,9 +36,7 @@ Advanced traders including small institutional players, like cryptoasset hedge f
 ##  **Overview *&* Origin**
 
 
-*  ***`NAME OF THE COMPANY:`***  
-       
-**Coinbase**
+*  ***`NAME OF THE COMPANY:`***  **Coinbase**
 
 * ***`WHEN WAS THE COMPNAY INCORPORATED?`***
 
